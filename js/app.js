@@ -94,7 +94,7 @@ $(document).ready(function() {
     userId: '441902919',
     accessToken: '441902919.1677ed0.b52ff944738c48e1b31ef92eb1c16377',
     template:
-      '<div class="c-widget-instagram__item"><a href="{{link}}" target="_blank"><img src="{{image}}"></a></div>'
+      '<div class="c-widget-instagram__item"><a href="{{link}}" aria-label="{{caption}}" target="_blank"><img src="{{image}}" alt="{{caption}}"></a></div>'
   });
 
   if ($('#instafeed').length) {
