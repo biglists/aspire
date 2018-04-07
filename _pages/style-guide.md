@@ -64,6 +64,12 @@ pre {
 
 ---
 
+### GitHub gist Embed
+
+<script src="https://gist.github.com/ahmadajmi/dbb4f713317721668bcbc39420562afc.js"></script>
+
+---
+
 Cras sed sodales enim. Duis nec erat magna. Sed scelerisque pretium mi et [unsplash](https://unsplash.com/) ullamcorper mauris aliquam ornare fringilla. In luctus commodo quam eget posuere.
 
 ---
