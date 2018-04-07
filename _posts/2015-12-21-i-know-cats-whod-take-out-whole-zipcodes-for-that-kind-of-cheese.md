@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I know cats who'd take out whole zipcodes for that kind of cheese
+title: I know cats who take out whole zipcodes for that kind of cheese
 author: john
 tags: [frontpage, jekyll, blog]
 image: '/images/posts/image13.jpg'

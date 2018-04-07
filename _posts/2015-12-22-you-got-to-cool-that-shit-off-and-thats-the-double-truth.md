@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You got to cool that off. And that's the double-truth
+title: You got to cool that off. And that is the double-truth
 featured: true
 author: ahmad
 tags: [frontpage, jekyll, blog]
